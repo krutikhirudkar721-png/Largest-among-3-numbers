@@ -5,10 +5,10 @@ this is the program to find largest among three numbers in Python
     n2=int(input("Enter second number: "))
     n3=int(input("Enter third number: "))
 
-    if n1>n2 and n2>n3
+    if n1>n2 and n2>n3:
       print(f"The largest number is: {n1}")
 
-    elif n2>n1 and n2>n3
+    elif n2>n1 and n2>n3:
       print(f"The largest number is: {n2}")
 
     else:
