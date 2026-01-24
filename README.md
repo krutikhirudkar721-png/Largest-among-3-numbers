@@ -26,8 +26,9 @@
 	    i+=1
 
 
-# Using for loop
-    print("Using for loop:")
+#Using for loop
+	
+	print("Using for loop:")
     for i in range( n    ):
         print("Hello Students")
     
