@@ -11,9 +11,3 @@
       print(f"The largest number is: {n2}")
     else:
       print(f"The largest number is: {n3}")
-
-#Using for loop Hello Students
-# 	print("Using for loop:")
-#     for i in range( n    ):
-#         print("Hello Students")
-    
