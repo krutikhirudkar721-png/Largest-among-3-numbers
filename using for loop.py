@@ -5,9 +5,11 @@ n2 = int(input("Enter second number: "))
 n3 = int(input("Enter third number: "))
 
 # Put numbers in a list
+
 numbers = [n1, n2, n3]
 
 # Loop to find the largest
+
 largest = n1
 for num in numbers:
     if num > largest:
