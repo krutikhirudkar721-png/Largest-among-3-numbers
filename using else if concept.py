@@ -1,6 +1,6 @@
 # Largest-among-3-numbers
-*this is the program to find largest among three numbers in Python
-# 1.using if else concept
+# *this is the program to find largest among three numbers in Python
+#1.using if else concept
 
     n1=int(input("Enter first number: "))
     n2=int(input("Enter second number: "))
