@@ -7,7 +7,6 @@ n3 = int(input("Enter third number: "))
 # Put numbers in a list
 
 numbers = [n1, n2, n3]
-
 # Loop to find the largest
 
 largest = n1
